@@ -37,7 +37,9 @@ You can set up the project in one of two ways:
   2) Clone this repository (https://github.com/aman260905/Personalized_budget_tracker.git):   
      git clone https://github.com/aman260905/Personal_Budget_tracker.git
   3) Enter the project folder:   
-  cd Personal-Budget-Manager
+  '''
+cd Personal-Budget-Manager
+'''
 * Option B: Manual Download
 
   Create a new folder on your computer named BudgetManager.
