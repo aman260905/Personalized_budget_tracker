@@ -1,6 +1,6 @@
-# personalized_budget_tracker
+### personalized_budget_tracker
 
-# 1. Data Persistence (The Storage Engine)
+### 1. Data Persistence (The Storage Engine)
 
 Instead of losing your data every time you close the program, the code uses the csv module to create a "permanent" record.
 * **Initialization:** It checks if budget_data.csv exists. If not, it creates it and adds headers (Category, Amount).
@@ -21,13 +21,13 @@ The provide_logic_advice function uses Conditional Logic to evaluate your status
 # 4. User Interaction (The "Loop")
 The while True loop in the main() function keeps the program running. It provides a menu-driven interface, allowing you to cycle through tasks (Add, View, Exit) until you explicitly choose to quit.
 
-# Installation & Setup Guide
+### Installation & Setup Guide
 * Step 1: Prerequisites Before running the project, ensure you have Python installed on your systemVersion:  
 Python 3.6 or higher is recommended.
 * Check Installation: Open your Terminal (Mac/Linux) or Command Prompt (Windows) and type:    
 python--version
 
-# Step 2: Project Setup
+### Step 2: Project Setup
 You can set up the project in one of two ways:
 
 * Option A: Using Git (Recommended for GitHub submission)   
